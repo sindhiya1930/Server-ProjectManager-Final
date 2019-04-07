@@ -1,0 +1,17 @@
+1. Project Manager:  FrontEnd Code
+
+Command : npm start
+
+2. server-master  : Back end
+
+	a. MongoDB :
+		run mongod application from mongodb folder
+
+		create database :ProjectManager
+		create collections :  Parent_Tasks
+				      Projects
+				      Users
+				      Tasks
+
+	b. Command : npm start
+
